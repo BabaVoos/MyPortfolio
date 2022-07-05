@@ -616,6 +616,7 @@ ul {
   right: 1px;
   background-color: var(--main-color-alt);
   border-radius: 20px;
+  z-index: 1000000000000;
 }
 /* Start Animation */
 @keyframes left-move {
